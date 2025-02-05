@@ -27,7 +27,8 @@ This project enables users to control a lab power supply through an ESP32. Commu
 
 ## Schematics
 
-[Link to PCB Schematic (PDF or Image)]
+![image](https://github.com/user-attachments/assets/3d6ff594-d53d-4782-9ef0-390cf0411aab)
+
 
 ## Firmware
 
@@ -40,10 +41,6 @@ The ESP32 firmware is written in [Programming Language] and utilizes [Frameworks
 3. Open the project in the [Development Environment].
 4. Compile and upload the firmware to the ESP32.
 
-### Usage
-
-[Provide detailed instructions on how to use the firmware, including available commands, communication protocols, and example code snippets.]
-
 ## PCB
 
 ### Production
@@ -52,16 +49,4 @@ The Gerber files for PCB production are included in this repository.
 
 ### Assembly
 
-[Provide clear step-by-step instructions for assembling the components onto the PCB.]
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit pull requests for bug fixes, new features, or improvements to the documentation.
-
-## License
-
-[Specify the license under which the project is distributed (e.g., MIT, GPL, Apache 2.0).]
-
-## Acknowledgements
-
-[Optional: Acknowledge any individuals or organizations that contributed to the project.]
+![image](https://github.com/user-attachments/assets/2623b5b7-6240-4525-8b95-48c2bddd8577)
