@@ -70,13 +70,7 @@ The ESP32 firmware handles communication, user commands, and power control logic
 4. Compile and upload the code to the ESP32 board.  
 5. Connect the ESP32 to the custom PCB and power supply.  
 
----
-
-## 🧱 PCB Design
-
-### 🧾 Production
-
-Gerber files for PCB manufacturing are included in this repository.  
+--
 You can upload them directly to any PCB fabrication service (e.g., JLCPCB, PCBWay).
 
 ### 🔩 Assembly
